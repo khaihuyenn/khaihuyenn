@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **khaihuyen.nguyen5211@gmail.com**
 
-- ⚡ Fun fact: **I like photography & minimalist.**
+- ⚡ Fun fact: **I like rubrik & photographyt.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
