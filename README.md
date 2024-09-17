@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **khaihuyen.nguyen5211@gmail.com**
 
-- ⚡ Fun fact: **I like rubrik & photography.**
+- ⚡ Fun fact: **I will find enjoyment and fulfillment through my family and hobbies(books, movies, photography and rubik's cubes).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
