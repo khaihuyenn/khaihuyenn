@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at: [https://khnguyenportfolio.netlify.app](https://khnguyenportfolio.netlify.app)
 
-- 📫 How to reach me: **khaihuyen.nguyen5211@gmail.com**
+- 📫 Reach me at **khaihuyen.nguyen5211@gmail.com**
 
-- ⚡ Fun fact: **I find enjoyment and fulfillment through my family and hobbies(books, movies, photography and rubik's cubes).**
+- ⚡ Fun fact: **I find enjoyment and fulfillment through my family and hobbies (books, movies, photography, rubik's cubes).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
