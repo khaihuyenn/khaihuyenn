@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaihuyenn&label=Profile%20views&color=0e75b6&style=flat" alt="khaihuyenn" /> </p>
 
-- 🌱 I’m currently learning **AI & Robotics**
+- 🌱 I’m currently learning **Computer Science with concentration in AI at Georgia Tech**
 
 - 👨‍💻 All of my projects are available at: [https://khnguyenportfolio.netlify.app](https://khnguyenportfolio.netlify.app)
 
