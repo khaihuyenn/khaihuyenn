@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Khai Huyen</h1>
-<h3 align="center">A passionate software developer from Atlanta, GA</h3>
+<h1 align="center"> </> Hello, world!👋🌏 </h1>
+<h3 align="center">I'm Khai Huyen, a passionate software developer from Atlanta, GA</h3>
+
+<!-- https://github-readme-stats.vercel.app/api?username=khaihuyenn&count_private=true -->
+![Khai's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=khaihuyenn&show_icons=true)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaihuyenn&label=Profile%20views&color=0e75b6&style=flat" alt="khaihuyenn" /> </p>
 
 - 🌱 I’m currently learning **Computer Science with concentration in AI at Georgia Tech**
 
-- 👨‍💻 All of my projects are available at: [https://khnguyenportfolio.netlify.app](https://khnguyenportfolio.netlify.app)
+- 💻 All of my projects are available at: [https://khnguyenportfolio.netlify.app](https://khnguyenportfolio.netlify.app)
 
 - 📫 Reach me at **khaihuyen.nguyen5211@gmail.com**
 
