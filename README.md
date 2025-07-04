@@ -2,7 +2,7 @@
 <h3 align="center">I'm Khai Huyen, a passionate software developer from Atlanta, GA</h3>
 
 <!-- https://github-readme-stats.vercel.app/api?username=khaihuyenn&count_private=true -->
-![Khai's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=khaihuyenn&show_icons=true)
+<!-- ![Khai's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=khaihuyenn&show_icons=true) -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaihuyenn&label=Profile%20views&color=0e75b6&style=flat" alt="khaihuyenn" /> </p>
