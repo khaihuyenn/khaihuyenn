@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science with concentration in AI at Georgia Tech**
 
-- 💻 All of my projects are available at [https://khnguyenportfolio.netlify.app](https://khnnportfolio.netlify.app)
+- 💻 All of my projects are available at [my personal portfolio website](https://khnnportfolio.netlify.app)
 
 - 📫 Reach me at **khaihuyen.nguyen5211@gmail.com**
 
